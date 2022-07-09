@@ -11,6 +11,12 @@ These files can also serve as example projects that you can start Synthesizer V 
 
 Synthesizer V uses JSON for file storage.
 
+# Notes
+
+这些项目文件中使用了一些部分初学用户不易发觉的功能。在浏览项目文件时，推荐您多留意“音符属性-音高转变”、“音符属性-时间和音素-力度”（仅Studio Pro）、自定义的“cl”音素、“音区偏移”参数等。很多时候，这些微调可以使声音更加真实，或者减少麻烦。
+
+These project files may involve some software features that a new learner don't easily find. I recommend paying attention to "Note Properties - Pitch transition", "Note Properties - Timing and Phonemes - Strength" (only with Studio Pro), customized "cl" phoneme, "Tone shift" parameter and other various things. These stuff can often make the voice more realistic or reduce hassle.
+
 # License
 
 除非另有声明，共享的 SVP 项目文件均以 CC-BY-NC 4.0 协议共享。使用宽松协议公开项目文件，是作为大家学习 Synthesiver V 的免费资源。无论创作其项目文件使用的软件或声库是否允许盈利，你都不可以使用该协议共享的项目文件盈利。谢谢。
